@@ -18,8 +18,19 @@
 
 ### My Github Statistics:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matiasbeltramone&show_icons=true&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matiasbeltramone&show_icons=true&hide_border=true&count_private=true&theme=algolia" />
 
 ### My most used Languages:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasbeltramone&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&count_private=true" />
+
+### Pin Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matiasbeltramone&repo=aemon&theme=algolia)](https://github.com/matiasbeltramone/aemon)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matiasbeltramone&repo=good-practices&theme=algolia)](https://github.com/matiasbeltramone/good-practices)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matiasbeltramone&repo=php-clean-architecture&theme=algolia)](https://github.com/matiasbeltramone/php-clean-architecture)
+
+
+
