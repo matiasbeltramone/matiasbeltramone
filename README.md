@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Matías 👋
 
-<!--
-**matiasbeltramone/matiasbeltramone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Enginner, Developer, and Teacher!
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working as Freelancer Web Developer.
+- 🌱 I’m currently learning Node and improving my skills on JS.
+- 👯 I’m looking to collaborate on technology / education projects.
+- 🥅 2021 Goals: Contribute more to Open Source.
+- ⚡ Fun fact: I love play shooter videogames and listen music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+<p align="left">
+  <a href="https://twitter.com/Matiasgb95" target="blank"><img align="center" src="assets/twitter.svg" alt="Twitter of Matías" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/mat%C3%ADas-gabriel-beltramone-659a63b4/" target="blank"><img align="center" src="assets/linkedin.svg" alt="Linkedin of Matías" height="30" width="30" /></a>
+  <a href="https://matiasbeltramone.github.io/"><img align="center" src="https://user-images.githubusercontent.com/22304957/80644516-24503e00-8a40-11ea-905c-81b7b5f0e72a.png" alt="Matias's Blog Profile" height="30" width="30" /></a>
+</p>
+
+### My Github Statistics:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matiasbeltramone&show_icons=true&hide_border=true&count_private=true" />
+
+### My most used Languages:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasbeltramone&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&count_private=true" />
