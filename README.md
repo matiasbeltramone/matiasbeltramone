@@ -5,8 +5,8 @@
 - 🔭 I'm currently working as Freelancer Web Developer.
 - 🌱 I’m currently learning Node and improving my skills on JS.
 - 👯 I’m looking to collaborate on technology / education projects.
-- 🥅 2021 Goals: Contribute more to Open Source.
-- ⚡ Fun fact: I love play shooter videogames and listen music.
+- 🥅 2021 Goals: Contribute more to learning communities.
+- ⚡ Fun fact: I love play shooter video games and listen music.
 
 ### Connect with me:
 
