@@ -4,9 +4,10 @@
 
 - 🔭 I'm currently working as Freelancer Web Developer.
 - 🌱 I’m currently learning Node and improving my skills on JS.
+- 👨‍💻 I'm working with PHP and Laravel as a main technologies.
 - 👯 I’m looking to collaborate on technology / education projects.
 - 🥅 2021 Goals: Contribute more to learning communities.
-- ⚡ Fun fact: I love play shooter video games and listen music.
+- ⚡ Fun fact: I love play shooter video games, listen music and reading a lot of things.
 
 ### Connect with me:
 
