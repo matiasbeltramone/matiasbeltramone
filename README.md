@@ -12,7 +12,6 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://twitter.com/Matiasgb95" target="blank"><img align="center" src="assets/twitter.svg" alt="Twitter of Matías" height="30" width="30" /></a>
   <a href="https://www.linkedin.com/in/mat%C3%ADas-gabriel-beltramone-659a63b4/" target="blank"><img align="center" src="assets/linkedin.svg" alt="Linkedin of Matías" height="30" width="30" /></a>
   <a href="https://matiasbeltramone.github.io/"><img align="center" src="https://user-images.githubusercontent.com/22304957/80644516-24503e00-8a40-11ea-905c-81b7b5f0e72a.png" alt="Matias's Blog Profile" height="30" width="30" /></a>
 </p>
