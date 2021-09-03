@@ -25,11 +25,3 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasbeltramone&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&count_private=true&theme=algolia" />
 
-### Pin Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matiasbeltramone&repo=backend-engineer&theme=algolia)](https://github.com/matiasbeltramone/backend-engineer)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matiasbeltramone&repo=workflow-and-methodologies&theme=algolia)](https://github.com/matiasbeltramone/workflow-and-methodologies)
-
-
-
