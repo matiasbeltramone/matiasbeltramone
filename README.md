@@ -3,7 +3,7 @@
 ## I'm a Enginner, Developer, and Teacher!
 
 - 🔭 I'm currently working as Software Developer.
-- 🌱 I’m currently learning Node.js, Go and improving my skills on Javascript.
+- 🌱 I’m currently learning Node.js, and improving my skills on Javascript/Typescript.
 - 👨‍💻 I'm working with PHP and Laravel as a main technologies.
 - 👯 I’m looking to collaborate on technology / education projects.
 - 🥅 2021 Goals: Contribute more to learning communities.
