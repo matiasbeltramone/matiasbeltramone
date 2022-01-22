@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about Jest & Cucumber on Typescript.
 - 👨‍💻 I'm working with PHP and Laravel as a main technologies.
 - 👯 I’m looking to collaborate on technology / education projects.
-- 🥅 2021 Goals: Contribute more to learning communities.
+- 🥅 2022 Goals: Contribute more to learning communities and learn about Testing and NoSQL Databases.
 - ⚡ Fun fact: I love play shooter video games, listen music and reading a lot of things.
 
 ### Connect with me:
