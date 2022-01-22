@@ -2,13 +2,13 @@
 
 ## I'm a Enginner, Developer, and Teacher!
 
-- 🔭 I'm currently working as Software Developer.
-- 🌱 I’m currently learning Node.js, and improving my skills on Javascript/Typescript.
-- 🌱 I’m currently learning about Jest & Cucumber on Typescript.
-- 👨‍💻 I'm working with PHP and Laravel as a main technologies.
-- 👯 I’m looking to collaborate on technology / education projects.
+- 🔭 I'm currently working as a Software Developer.
+- 🌱 I’m currently learning Node.js, Typescript, MongoDB, and Testing with Jest for unit tests and Cucumber for an end to end tests.
+- 👨‍💻 I was worked with PHP and Laravel as the main technologies for many years.
+- 👨‍💻 I'm currently working on a Nodejs/Typescript project with MongoDB.
+- 👯 I’m looking to create content about backend interviews, OOP, and architecture topics.
 - 🥅 2022 Goals: Contribute more to learning communities and learn about Testing and NoSQL Databases.
-- ⚡ Fun fact: I love play shooter video games, listen music and reading a lot of things.
+- ⚡ Fun fact: I love playing shooter video games, listening to music, and reading a lot of different things like economics, personal finance, investments, and self-growth.
 
 ### Connect with me:
 
