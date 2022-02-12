@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/mgbeltramone/" target="_blank">
+    <a href="https://www.linkedin.com/in/mgbeltramone/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/mgbeltramone" target="_blank">
+    <a href="https://twitter.com/mgbeltramone">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -26,7 +26,7 @@
 ## :man_technologist: I'm a Backend Software Developer and I Love Teaching!
 
 - 🔭 I'm currently working as a Backend Software Developer.
-- 🌱 I’m currently learning Node.js, Typescript, MongoDB, and Testing with Jest for unit tests and Cucumber for an Acceptance tests.
+- 🌱 I’m currently learning Node.js, Typescript, MongoDB, and Testing with Jest for unit tests and Cucumber for Acceptance test.
 - 👨‍💻 I was worked with PHP and Laravel as the main technologies for many years.
 - 👨‍💻 I'm currently working on a Nodejs/Typescript project with MongoDB.
 - 👯 I’m looking to create content about backend interviews, OOP, and architecture topics.
