@@ -15,9 +15,7 @@
   </div>
 
   <h1 id="name">
-     Hi there, I'm Matías
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-     From Argentina  <img src="https://www.emojiall.com/en/header-svg/%F0%9F%87%A6%F0%9F%87%B7.svg" height="30">
+     Hi there, I'm Matías 👋 From Argentina  <img src="https://www.emojiall.com/en/header-svg/%F0%9F%87%A6%F0%9F%87%B7.svg" height="30">
   </h1>
   
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
