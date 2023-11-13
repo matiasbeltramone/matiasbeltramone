@@ -28,7 +28,6 @@
 - 👨‍💻 I was worked with PHP and Laravel as the main technologies for many years.
 - 👨‍💻 I'm currently working on a Nodejs/Typescript project with MongoDB.
 - 👯 I’m looking to create content about backend interviews, OOP, and architecture topics.
-- 🥅 2022 Goals: Contribute more to learning communities and learn more about Testing and NoSQL Databases.
 - ⚡ Fun fact: I love playing shooter video games, listening to music, and reading a lot of different things like economics, personal finance, investments, and self-growth.
 
 ---
