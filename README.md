@@ -34,8 +34,8 @@
 ---
 
 ### :writing_hand: Blog Posts:
-- [⏳ Complejidad Algorítmica](https://matiasbeltramone.github.io/hexagonal-architecture/](https://matiasbeltramone.com.ar/big-o-part-1/)
-- [🦁 Conquistando la Bestia de Big-O](https://matiasbeltramone.github.io/infrastructure-or-core-code/](https://matiasbeltramone.com.ar/big-o-part-2/)
+- [⏳ Complejidad Algorítmica](https://matiasbeltramone.com.ar/big-o-part-1/)
+- [🦁 Conquistando la Bestia de Big-O](https://matiasbeltramone.com.ar/big-o-part-2/)
 - [🤯 Desentrañando Big O: Un viaje desde O(1) hasta O(n!)](https://matiasbeltramone.com.ar/big-o-part-3/)
 
 ---
