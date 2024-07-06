@@ -33,9 +33,40 @@
 ---
 
 ### :writing_hand: Blog Posts:
+#### Complejidad Algorítmica
 - [⏳ Complejidad Algorítmica](https://matiasbeltramone.com.ar/big-o-part-1/)
 - [🦁 Conquistando la Bestia de Big-O](https://matiasbeltramone.com.ar/big-o-part-2/)
 - [🤯 Desentrañando Big O: Un viaje desde O(1) hasta O(n!)](https://matiasbeltramone.com.ar/big-o-part-3/)
+
+#### Introducción a Paradigmas y Objetos
+- [⚔ ¿Qué son los Paradigmas?](https://matiasbeltramone.com.ar/objetos-1/)
+- [🐘 Orientación a Objetos](https://matiasbeltramone.com.ar/objetos-2/)
+- [🎨 Objetos](https://matiasbeltramone.com.ar/objetos-3/)
+
+#### Programando en Objetos: Básicos
+- [🧱 Clases y Objetos](https://matiasbeltramone.com.ar/objetos-4/)
+- [🧱 Estado](https://matiasbeltramone.com.ar/objetos-5/)
+- [🧱 Comportamiento](https://matiasbeltramone.com.ar/objetos-6/)
+
+#### Programando en Objetos: Fundamentos
+- [🌟 Herencia](https://matiasbeltramone.com.ar/objetos-herencia/)
+- [🌟 Polimorfismo](https://matiasbeltramone.com.ar/objetos-polimorfismo/)
+- [🌟 Encapsulación](https://matiasbeltramone.com.ar/objetos-encapsulamiento/) (Concepto fundamental para muchos patrones y heurísticas de Software)
+- [🌟 Abstracción](https://matiasbeltramone.com.ar/objetos-abstraccion/)
+
+- [🌟 Dependencias](https://matiasbeltramone.com.ar/objetos-7/)
+- [🌟 Composición](https://matiasbeltramone.com.ar/objetos-composicion/)
+- [🌟 Modelado](https://matiasbeltramone.com.ar/objetos-modelado/)
+
+#### Programando con Objetos: Herramientas de Diseño
+- [🛠 Excepciones y Retornos](https://matiasbeltramone.com.ar/objetos-excepciones-y-retornos/)
+
+#### Heurísticas
+- [🛠 CQS](https://matiasbeltramone.com.ar/objetos-cqs/)
+- [🛠 Postel Law](https://matiasbeltramone.com.ar/objetos-postel_law/)
+  - [🛠 Entrada de Datos](https://matiasbeltramone.com.ar/objetos-postel_law_entrada/)
+  - [🛠 Null References](https://matiasbeltramone.com.ar/objetos-postel_law_nullable_references/)
+  - [🛠 Fail Fast](https://matiasbeltramone.com.ar/objetos-postel_law_fail_fast/)
 
 ---
 
