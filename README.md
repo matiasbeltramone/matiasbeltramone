@@ -1,99 +1,100 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
-  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/mgbeltramone/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/mgbeltramone">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
+<div align="center">
 
-  <div id="profile-counter">
-    <img src="https://komarev.com/ghpvc/?username=matiasbeltramone&style=flat-square&color=blue" alt=""/>
-  </div>
+# Matías Beltramone 🇦🇷
 
-  <h1 id="name">
-     Hi there, I'm Matías 👋 From Argentina  <img src="https://www.emojiall.com/en/header-svg/%F0%9F%87%A6%F0%9F%87%B7.svg" height="30">
-  </h1>
-  
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
+**Backend Engineer · Arquitectura de Software · AI Engineering**
+
+Construyo sistemas backend sostenibles en el tiempo y escribo sobre cómo hacerlo con fundamentos.
+
+[![Blog](https://img.shields.io/badge/Signal_Dev-matiasbeltramone.com-0ea5e9?style=for-the-badge&logo=astro&logoColor=white)](https://matiasbeltramone.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mgbeltramone-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mgbeltramone/)
+
 </div>
 
-## :man_technologist: I'm a Backend Software Developer and I Love Teaching!
+---
 
-- 🔭 I'm currently working as a Backend Software Developer.
-- 🌱 I’m currently learning Node.js, Typescript, MongoDB, and Testing with Jest for unit tests and Cucumber for Acceptance test.
-- 👨‍💻 I was worked with PHP and Laravel as the main technologies for many years.
-- 👨‍💻 I'm currently working on a Nodejs/Typescript project with MongoDB.
-- 👯 I’m looking to create content about backend interviews, OOP, and architecture topics.
-- ⚡ Fun fact: I love playing shooter video games, listening to music, and reading a lot of different things like economics, personal finance, investments, and self-growth.
+## 🎯 Sobre mí
+
+Soy ingeniero de software backend con varios años de experiencia profesional construyendo plataformas en producción — como se puede ver en mi historial de contribuciones.
+
+Mi foco está en la intersección entre **diseño de sistemas**, **arquitectura limpia** y **AI aplicada**. No solo escribo código: me importa cómo los sistemas evolucionan, escalan y se mantienen a lo largo del tiempo.
+
+Creo en la formación continua, y por eso construí [**Signal Dev**](https://matiasbeltramone.com) — una plataforma de aprendizaje con roadmaps técnicos gratuitos, diseñados para entender el **por qué** detrás de cada decisión, no solo el cómo.
 
 ---
 
-### :writing_hand: Blog Posts:
-#### Complejidad Algorítmica
-- [⏳ Complejidad Algorítmica](https://matiasbeltramone.com.ar/big-o-part-1/)
-- [🦁 Conquistando la Bestia de Big-O](https://matiasbeltramone.com.ar/big-o-part-2/)
-- [🤯 Desentrañando Big O: Un viaje desde O(1) hasta O(n!)](https://matiasbeltramone.com.ar/big-o-part-3/)
+## 📚 Signal Dev — Roadmaps Técnicos
 
-#### Introducción a Paradigmas y Objetos
-- [⚔ ¿Qué son los Paradigmas?](https://matiasbeltramone.com.ar/objetos-1/)
-- [🐘 Orientación a Objetos](https://matiasbeltramone.com.ar/objetos-2/)
-- [🎨 Objetos](https://matiasbeltramone.com.ar/objetos-3/)
+Todo publicado en **[matiasbeltramone.com](https://matiasbeltramone.com)** — roadmaps progresivos y gratuitos para devs que quieren ir más allá del tutorial.
 
-#### Programando en Objetos: Básicos
-- [🧱 Clases y Objetos](https://matiasbeltramone.com.ar/objetos-4/)
-- [🧱 Estado](https://matiasbeltramone.com.ar/objetos-5/)
-- [🧱 Comportamiento](https://matiasbeltramone.com.ar/objetos-6/)
+| Roadmap | Posts | Nivel |
+|---------|:-----:|-------|
+| 🌐 [**Fundamentos Web**](https://matiasbeltramone.com/roadmaps/web-fundamentals) | 8 | Básico |
+| 🌳 [**Git: Flujos Reales**](https://matiasbeltramone.com/roadmaps/git) | 10 | Básico → Intermedio |
+| 🤖 [**AI Engineer**](https://matiasbeltramone.com/roadmaps/ai-engineer) | 18 | Avanzado |
+| 🧠 [**LLM Fundamentals**](https://matiasbeltramone.com/roadmaps/llm-fundamentals) | 1+ | Fundamental |
+| 🚀 [**Carrera & Liderazgo**](https://matiasbeltramone.com/roadmaps/career) | 3 | Estratégico |
 
-#### Programando en Objetos: Fundamentos
-- [🌟 Herencia](https://matiasbeltramone.com.ar/objetos-herencia/)
-- [🌟 Polimorfismo](https://matiasbeltramone.com.ar/objetos-polimorfismo/)
-- [🌟 Encapsulación](https://matiasbeltramone.com.ar/objetos-encapsulamiento/) (Concepto fundamental para muchos patrones y heurísticas de Software)
-- [🌟 Abstracción](https://matiasbeltramone.com.ar/objetos-abstraccion/)
+### 🔒 Segmento Premium (en construcción)
 
-- [🌟 Dependencias](https://matiasbeltramone.com.ar/objetos-7/)
-- [🌟 Composición](https://matiasbeltramone.com.ar/objetos-composicion/)
-- [🌟 Modelado](https://matiasbeltramone.com.ar/objetos-modelado/)
+Estoy armando una sección con contenido avanzado: mis apuntes de estudio transformados en posts didácticos, con laboratorios prácticos cuando el tema lo permite. Cada serie refleja cómo proceso y aprendo un tema — cursos, libros, experimentación — plasmado en un formato que evoluciona conmigo.
 
-#### Programando con Objetos: Herramientas de Diseño
-- [🛠 Excepciones y Retornos](https://matiasbeltramone.com.ar/objetos-excepciones-y-retornos/)
-
-#### Heurísticas
-- [🛠 CQS](https://matiasbeltramone.com.ar/objetos-cqs/)
-- [🛠 Postel Law](https://matiasbeltramone.com.ar/objetos-postel_law/)
-  - [🛠 Entrada de Datos](https://matiasbeltramone.com.ar/objetos-postel_law_entrada/)
-  - [🛠 Null References](https://matiasbeltramone.com.ar/objetos-postel_law_nullable_references/)
-  - [🛠 Fail Fast](https://matiasbeltramone.com.ar/objetos-postel_law_fail_fast/)
+Temas que van a estar: **Elastic Search** · **OOP & Diseño** · **Marca Personal** · **Libros Destilados** · **Testing | TDD** · **Cursos Premium resumidos** · y más.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+## 🔭 En qué estoy trabajando
+
+**Profesionalmente** — Lidero desarrollo backend con Node.js, TypeScript y PostgreSQL en múltiples plataformas en producción hosteadas en AWS Cloud.
+
+**Proyectos personales:**
+- 🌐 **Signal Dev** — Mi blog y plataforma de aprendizaje, donde estoy implementando el sistema premium
+- 🥋 **Katas** — Ejercicios constantes para afilar habilidades de diseño y problem solving
+- 🎙 **AI Experiments** — Proyectos privados con transcripción de audio a texto usando modelos de IA
+- 💰 **Finance Tools** — Wrappers para cálculo de gastos, promedios ARS/USD, y proyecciones financieras personales
+
+---
+
+## 🛠 Stack
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript"  alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx"  alt="nginx" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu"  alt="ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis"  alt="redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="digitalocean"  alt="digitalocean" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="amazonwebservices"  alt="amazonwebservices" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" title="cucumber"  alt="cucumber" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest"  alt="jest" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
 </div>
 
 ---
 
-### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matiasbeltramone&date_format=M%20j%5B%2C%20Y%5D&theme=dark&background=000000)](https://git.io/streak-stats)
+## 🧠 Lo que me apasiona
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasbeltramone&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- **Diseño de software** — OOP, heurísticas (CQS, Postel's Law), patrones, clean architecture
+- **Testing** — Unit, acceptance, estrategias de testing en sistemas reales
+- **IA aplicada** — RAG, agentes, evals, prompting avanzado, coding agents
+- **Fundamentos** — Algoritmos, estructuras de datos, las bases que no pasan de moda
+- **Enseñanza técnica** — Hacer que lo complejo sea accesible sin perder rigor
 
-[![Contributions](https://github-readme-stats.vercel.app/api?username=matiasbeltramone&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📊 Stats
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=matiasbeltramone&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Good software is not about syntax. It's about modeling reality properly."*
+
+**[matiasbeltramone.com](https://matiasbeltramone.com)** — Roadmaps técnicos gratuitos para devs que quieren pensar en sistemas, no en frameworks.
+</div>
